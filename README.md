@@ -1,3 +1,3 @@
 # Diabetic Retinopathy Detection
 
-<img src="https://i.imgur.com/aQlU7qZ.png" width=500 />
+<img src="https://i.imgur.com/jgTZD2r.png" width=500 />
